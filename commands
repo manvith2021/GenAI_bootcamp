@@ -1,0 +1,10 @@
+# deactivate current env
+deactivate
+
+# remove or rename old env
+rm -rf env
+
+# recreate with CPython
+uv venv --python=python3.11 env
+uv pip install -r requirements.txt
+env\Scripts\activate

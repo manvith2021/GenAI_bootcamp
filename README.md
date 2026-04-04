@@ -1,1 +1,1 @@
-# GenAI_bootcamp
+# Full-Stack-GenAI-Bootcamp-1.0
