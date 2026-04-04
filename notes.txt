@@ -1,0 +1,2 @@
+fit -- learns the transformation rules from the data.
+transform -- applies the learned transformation to data.
