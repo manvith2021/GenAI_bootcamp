@@ -17,3 +17,5 @@ bs4
 requests
 selenium
 nltk
+sentence-transformers==2.7.0
+pyyaml
