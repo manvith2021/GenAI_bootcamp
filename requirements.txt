@@ -33,3 +33,9 @@ langchain-huggingface
 langchain-anthropic
 langchain-ollama
 dotenv
+langchain-community
+pypdf
+jq
+unstructured
+docx2txt
+markdown
