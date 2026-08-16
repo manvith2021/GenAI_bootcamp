@@ -1,2 +1,8 @@
 fit -- learns the transformation rules from the data.
 transform -- applies the learned transformation to data.
+
+
+Hackthon
+
+1st Place – AgentCare Hackathon GitHub: https://github.com/chetangpande-ai/AgentCare-Build-Challange-Hackathon-2026 YouTube: https://www.youtube.com/watch?v=dJLSfw1R5CE ?? 4th Place – SmartReco Hackathon GitHub: https://github.com/chetangpande-ai/SmartReco YouTube: https://www.youtube.com/watch?v=GbDVMFf1BFA&t=2s
+
